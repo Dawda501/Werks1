@@ -1,0 +1,21 @@
+{
+
+	"manifest_version": 3,
+	"version": "1.3",
+	"name": "Dawda's Leads tracker",
+	"action":{
+
+ 		"default_popup":"index.html",
+ 		"defualt_icon": "pockage.png"
+
+	},
+	"permissions": [
+		"tabs"
+	]
+
+
+
+
+
+
+}
